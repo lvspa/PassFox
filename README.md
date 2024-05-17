@@ -14,6 +14,8 @@ Licença
 Este pequeno projeto está licenciado sob a Licença GNU - veja o arquivo LICENSE para mais detalhes.
 
 
+****************************************************************
+
 
 
 [EN]
